@@ -17,7 +17,7 @@ int main (int argc, char ** argv) {
 
 
  
-  /* Taille de départ tableau contenant le fichier */
+  /* Taille de départ tableau contenant le fichieigigr */
   Uint taille = 1024;
 
   /* Indice de la fin de chaine du tableau contenant le fichier */
